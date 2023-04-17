@@ -1,0 +1,4 @@
+/target
+/assemblies/*
+
+!/assemblies/*.asm
